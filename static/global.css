@@ -1,0 +1,13 @@
+body{
+	margin: 0;
+	background-color: #fff;
+}
+
+.tpl{
+	margin-bottom: 50px;
+}
+
+#header{
+	position: relative;
+}
+
